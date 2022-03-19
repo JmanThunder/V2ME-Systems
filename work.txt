@@ -1,2 +1,0 @@
-general_gfx.gfx
-48+20=68
